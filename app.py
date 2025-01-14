@@ -274,6 +274,6 @@ if predict_button:
 # Themed footer
 st.markdown(f"""
     <div style='margin-top: 3rem; text-align: center; color: {themes[selected_theme]["primary"]};'>
-        <p>💻 Developed by Ashilpa with ❤️ for healthcare | 🏥 Consult your healthcare provider for medical advice</p>
+        <p>💻 Developed by Muindi with ❤️ for healthcare | 🏥 Consult your healthcare provider for medical advice</p>
     </div>
 """, unsafe_allow_html=True)
